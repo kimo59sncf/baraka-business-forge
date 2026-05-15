@@ -87,7 +87,7 @@ export function Component() {
       <ul>
         <li><strong>Objectif</strong> : reconversion totale ? side-business ? automatisation interne ?</li>
         <li><strong>Date de mise à jour</strong> : les outils évoluent vite (Lovable et n8n changent tous les 3 mois).</li>
-        <li><strong>Communauté active</strong> : Discord ou Slack vivant > masterclass enregistrée.</li>
+        <li><strong>Communauté active</strong> : Discord ou Slack vivant {'>'} masterclass enregistrée.</li>
         <li><strong>Garantie</strong> : 14 jours minimum, 30 jours idéalement.</li>
         <li><strong>Preuve d'expertise</strong> : le formateur a-t-il livré des projets ?</li>
       </ul>
