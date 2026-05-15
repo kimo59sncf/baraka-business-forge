@@ -28,10 +28,10 @@ export type Ebook = {
 //   "FREE"       -> 50-prompts (gratuit, mais code ouvre aussi le téléchargement)
 // Hashes générés via SHA-256 de l'uppercase du code.
 const HASH = {
-  BARAKA2026: "a9a7ee5beb43dba8a36c9d5ce3a3b3c0a37a2bba5e3c4e7c2d4b9bb16e7c8e44",
-  MRR_GOLD: "7e6c0e0e2c0fb8d62a3a0a48b1d0a4b2a3c8c5e6d7b8f9a0e1d2c3b4a5968778",
-  NOCODE_FR: "5e2c4f4f8a8a8b9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f60718293a4b5c6d7",
-  FREE: "b1f3d6a7c9e2f4a5b6c7d8e9f0a1b2c3d4e5f60718293a4b5c6d7e8f9a0b1c2d",
+  BARAKA2026: "c61e5c6f8ec05fd9b4ffa3c2f0e943cb6ffaab8b980f4e57856779597e18d300",
+  MRR_GOLD: "7662360a63b3475f6df1a1c8c019764f0365677e3c8669677248ca2f454eee93",
+  NOCODE_FR: "ff2b68e400f15e5e77d9885a3087c993a586322fdf5f609084d869939a35df32",
+  FREE: "19f1fa5ec989d121d8d2714dbed4db965eaaa6eef40df756c8a2526cedcbd0a3",
 };
 
 export const ebooks: Ebook[] = [
