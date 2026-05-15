@@ -6,7 +6,7 @@ import { SITE } from "@/lib/site";
 
 const CATS = ["Tous", "IA", "No-Code", "Business"] as const;
 
-export const Route = createFileRoute("/blog")({
+export const Route = createFileRoute("/blog/")({
   head: () => ({
     meta: [
       { title: "Blog Baraka — IA, No-Code, business digital français" },

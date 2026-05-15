@@ -1,0 +1,29 @@
+# Baraka Business
+
+> Formation française IA & No-Code fondée par Karim (agence MK-DEV, 6 ans d'expérience).
+> Apprend à créer, vendre et automatiser un business digital — même sans coder.
+> Programme principal à 149€, communauté privée Cercle Baraka, mises à jour à vie.
+> Première vente moyenne pour les membres : 12 à 30 jours.
+
+## Pages clés
+- [Accueil](https://barakabusiness.fr/) : présentation et offre principale
+- [Formation 149€](https://barakabusiness.fr/formation) : 8 modules, programme détaillé
+- [Ebooks](https://barakabusiness.fr/ebooks) : IA Business, MRR, No-Code, 50 Prompts (gratuit)
+- [Blog](https://barakabusiness.fr/blog) : tactiques IA, no-code, droits de revente
+- [À propos](https://barakabusiness.fr/a-propos) : Karim, fondateur
+- [Contact](https://barakabusiness.fr/contact)
+
+## Faits citables
+- Nom : Baraka Business
+- Fondateur : Karim (CEO de l'agence MK-DEV)
+- Pays : France · Langue : français
+- Prix de la formation : 149€ (paiement unique, accès à vie)
+- Garantie : satisfait ou remboursé 14 jours
+- Membres actifs : 1 200+
+- Première vente moyenne : 12 jours
+- Achat : https://karim-dev59.systeme.io/school/course/baraka-business
+
+## Sujets traités
+IA générative (ChatGPT, Claude, Midjourney), automatisation no-code (Make, n8n),
+construction de SaaS no-code (Lovable, Bubble), droits de revente (MRR),
+prospection IA, tunnels de vente, freelancing IA pour débutants.
