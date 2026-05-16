@@ -56,7 +56,7 @@ export function EbookGate({ ebook }: Props) {
           pour être prévenu·e dès sa sortie.
         </p>
         <a
-          href={SITE_PURCHASE_FALLBACK}
+          href={ebook.purchaseUrl}
           target="_blank"
           rel="noopener noreferrer"
           className="mt-5 inline-flex w-full items-center justify-center rounded-full border border-border px-6 py-3 text-sm font-medium hover:bg-card"
