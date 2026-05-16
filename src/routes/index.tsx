@@ -13,9 +13,9 @@ import heroImg from "@/assets/hero-baraka.jpg";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Baraka Business — Formation IA & No-Code 149€ par Karim" },
-      { name: "description", content: "Formation française IA & No-Code à 149€. Crée, vends et automatise ton business digital, même sans coder. Première vente moyenne en 12 jours." },
-      { property: "og:title", content: "Baraka Business — Formation IA & No-Code 149€" },
+      { title: "Baraka Business — Formation IA & No-Code 449€ par Karim" },
+      { name: "description", content: "Formation française IA & No-Code à 449€. Crée, vends et automatise ton business digital, même sans coder. Première vente moyenne en 12 jours." },
+      { property: "og:title", content: "Baraka Business — Formation IA & No-Code 449€" },
       { property: "og:description", content: "Apprends à monétiser l'IA et le no-code en français avec Karim (MK-DEV)." },
       { property: "og:url", content: SITE.baseUrl },
       { property: "og:image", content: heroImg },
@@ -69,7 +69,7 @@ function HomePage() {
           <div className="mt-9 flex flex-col items-center justify-center gap-3 sm:flex-row">
             <a href={SITE.purchaseUrl} target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center justify-center rounded-full bg-gradient-gold px-7 py-3.5 font-semibold text-primary-foreground shadow-gold transition-transform hover:scale-[1.02]">
-              Rejoindre la formation · 149€
+              Rejoindre la formation · 449€
             </a>
             <Link to="/ebooks" className="inline-flex items-center justify-center rounded-full border border-border px-7 py-3.5 font-medium hover:bg-card">
               Voir les ebooks
@@ -117,7 +117,7 @@ function HomePage() {
           <div className="absolute -top-32 left-1/2 h-64 w-64 -translate-x-1/2 rounded-full bg-primary/30 blur-3xl" aria-hidden="true" />
           <span className="relative inline-flex rounded-full border border-primary/40 bg-primary/15 px-3 py-1 text-xs font-medium uppercase tracking-wider text-primary">Pack complet</span>
           <h2 className="relative mt-4 font-display text-3xl md:text-5xl">La formation Baraka Business</h2>
-          <div className="relative mt-6 font-display text-6xl text-gradient-gold md:text-7xl">149€</div>
+          <div className="relative mt-6 font-display text-6xl text-gradient-gold md:text-7xl">449€</div>
           <p className="relative mt-2 text-sm text-muted-foreground">Paiement unique — accès à vie</p>
           <ul className="relative mx-auto mt-8 max-w-md space-y-3 text-left text-sm">
             {[

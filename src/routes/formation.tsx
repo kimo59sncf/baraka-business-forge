@@ -16,9 +16,9 @@ const MODULES = [
 export const Route = createFileRoute("/formation")({
   head: () => ({
     meta: [
-      { title: "Formation Baraka Business 149€ — IA & No-Code en français" },
-      { name: "description", content: "Programme complet 8 modules, communauté privée et accès à vie. Apprends à créer un business IA & no-code rentable en français pour 149€." },
-      { property: "og:title", content: "Formation Baraka Business 149€" },
+      { title: "Formation Baraka Business 449€ — IA & No-Code en français" },
+      { name: "description", content: "Programme complet 8 modules, communauté privée et accès à vie. Apprends à créer un business IA & no-code rentable en français pour 449€." },
+      { property: "og:title", content: "Formation Baraka Business 449€" },
       { property: "og:description", content: "8 modules, Cercle Baraka, mises à jour à vie." },
       { property: "og:url", content: `${SITE.baseUrl}/formation` },
     ],
@@ -64,7 +64,7 @@ function FormationPage() {
         <div className="mt-8">
           <a href={SITE.purchaseUrl} target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center justify-center rounded-full bg-gradient-gold px-7 py-3.5 font-semibold text-primary-foreground shadow-gold">
-            Rejoindre · 149€
+            Rejoindre · 449€
           </a>
         </div>
       </section>
@@ -87,7 +87,7 @@ function FormationPage() {
         </div>
 
         <div className="mt-12 glass rounded-2xl p-8 text-center">
-          <h3 className="font-display text-2xl">Tout est inclus pour 149€</h3>
+          <h3 className="font-display text-2xl">Tout est inclus pour 449€</h3>
           <p className="mt-2 text-sm text-muted-foreground">Paiement unique · accès à vie · garantie 14 jours</p>
           <a href={SITE.purchaseUrl} target="_blank" rel="noopener noreferrer"
             className="mt-5 inline-flex rounded-full bg-gradient-gold px-7 py-3 font-semibold text-primary-foreground shadow-gold">

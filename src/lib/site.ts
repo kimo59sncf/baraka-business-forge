@@ -16,6 +16,6 @@ export const SITE = {
     bio: "Développeur full-stack avec 6 ans d'expérience, fondateur de l'agence MK-DEV.",
   },
   pricing: {
-    formation: 149,
+    formation: 449,
   },
 } as const;
