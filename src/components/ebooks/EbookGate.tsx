@@ -40,6 +40,33 @@ export function EbookGate({ ebook }: Props) {
     }
   }
 
+  if (ebook.comingSoon) {
+    return (
+      <div className="glass rounded-2xl p-6">
+        <div className="flex items-baseline justify-between">
+          <span className="font-display text-3xl text-gradient-gold">
+            {ebook.price === 0 ? "Gratuit" : `${ebook.price}€`}
+          </span>
+          <span className="rounded-full border border-border bg-card px-2.5 py-1 text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+            Bientôt disponible
+          </span>
+        </div>
+        <p className="mt-5 text-sm text-muted-foreground">
+          Cet ebook est en cours de finalisation. Inscris-toi à la newsletter
+          pour être prévenu·e dès sa sortie.
+        </p>
+        <a
+          href={ebook.purchaseUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-5 inline-flex w-full items-center justify-center rounded-full border border-border px-6 py-3 text-sm font-medium hover:bg-card"
+        >
+          Voir la formation complète
+        </a>
+      </div>
+    );
+  }
+
   if (unlocked) {
     return (
       <div className="glass rounded-2xl p-6">
