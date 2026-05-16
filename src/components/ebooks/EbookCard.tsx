@@ -29,6 +29,11 @@ export function EbookCard({ ebook }: { ebook: Ebook }) {
               MRR
             </span>
           )}
+          {ebook.comingSoon && (
+            <span className="rounded-full border border-border bg-card px-2 py-0.5 text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+              Bientôt
+            </span>
+          )}
         </div>
         <h3 className="mt-2 font-display text-xl leading-tight">{ebook.title}</h3>
         <p className="mt-1.5 line-clamp-2 text-sm text-muted-foreground">
