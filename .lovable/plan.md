@@ -1,6 +1,7 @@
 ## Vue d'ensemble
 
-Site complet **BARAKA BUSINESS** (formation IA & No-Code par Karim / MK-DEV). Stack actuelle conservée : TanStack Start + Tailwind v4 + contenu statique (TS). Stratégie double **SEO Google + GEO** (citation par ChatGPT/Perplexity/Gemini). Achat formation/ebooks → `https://karim-dev59.systeme.io/school/course/baraka-business`.
+Site complet **BARAKA BUSINESS** (formation 
+marketing digital par Karim Mahouachi / MK-DEV). Stack actuelle conservée : TanStack Start + Tailwind v4 + contenu statique (TS). Stratégie double **SEO Google + GEO** (citation par ChatGPT/Perplexity/Gemini). Achat formation/ebooks → `https://karim-dev59.systeme.io/school/course/baraka-business`.
 
 ## Direction artistique « Or & Nuit Tech »
 
